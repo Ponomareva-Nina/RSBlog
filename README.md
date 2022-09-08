@@ -4,12 +4,12 @@ Private repository to complete the final task in Stage 2 rolling-scopes-school.
 Для приложения разработан собственный бэкэнд, соответственно для запуска приложения и проверки всех фич необходимо запустить сервер.
 Сервер находится в отдельном репозитории https://github.com/SergeyIvanov85/RSBlog-server
 Инструкция по запуску сервера находится в файле README указанного репозитория, просто склонируйте его себе, а потом запустите.
-После запуска сервера можно запустить задеплоенное приложение по ссылке https://sergeyivanov85.github.io/RSBlog/
+После запуска сервера можно запустить задеплоенное приложение по ссылке https://Ponomareva-Nina.github.io/RSBlog/
 Если вы захотите сохранить свои посты для потомков, пожалуйста сделайте пуш в репозиторий сервера после работы (т.к. изображения сохраняются в серверной папке uploads, а наша команда не располагает возможностью поднять круглосуточный сервер), тем не менее все ваши статьи сохранятся и будут доступны для Вас в любое время!
 
 Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rsclone/rsclone.md
 
-Deploy: https://sergeyivanov85.github.io/RSBlog/
+Deploy: https://Ponomareva-Nina.github.io/RSBlog/
 
 Done 06.09.2022 / deadline 06.09.2022
 
